@@ -1,0 +1,6 @@
+{
+  "name": "Catter",
+  "version": "1.0",
+  "description": "Catter is a extension for view cat in chrome",
+  "manifest_version": 2
+}
